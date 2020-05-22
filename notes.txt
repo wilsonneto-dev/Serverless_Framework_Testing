@@ -1,0 +1,9 @@
+Serverless framework testing:
+
+commands:
+npm install serverless --global
+serverless -v
+serverless login
+serverless --org wilsonnetodev --app myapp
+cd [dir]
+serverless deploy
